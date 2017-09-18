@@ -66,3 +66,6 @@ javascript保留两位小数的实例：
        return Math.round(src*Math.pow(10, pos))/Math.pow(10, pos);   
     } 
   </script>
+
+js处理数字保留2位小数，强制保留2位小数不够补上.00
+http://blog.csdn.net/kongjiea/article/details/42643091
