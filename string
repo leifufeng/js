@@ -1,0 +1,7 @@
+JavaScript生成随机字符串的方法
+http://www.jb51.net/article/62492.htm
+function RandomString(length) {
+    var str = '';
+    for ( ; str.length < length; str += Math.random().toString(36).substr(2) );
+    return str.substr(0, length);
+}
