@@ -1,3 +1,19 @@
+JavaScript Number 对象
+http://www.runoob.com/jsref/jsref-obj-number.html
+    Number 对象
+    Number 对象是原始数值的包装对象。
+    Number 创建方式 new Number()。
+    语法
+    var num = new Number(value);
+常用方法
+    Number('12')//进行强制类型转换
+
+    toFixed(x)	把数字转换为字符串，结果的小数点后有指定位数的数字。
+        var num = 5.56789;
+        var n=num.toFixed(2);
+        n 输出结果:
+        5.57
+    四舍五入保留指定位数
 
 //保留两位小数  
 var num = 1.2222
