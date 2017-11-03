@@ -1,0 +1,9 @@
+JavaScript Date 对象
+Date 对象
+  Date 对象用于处理日期与实际。
+  创建 Date 对象： new Date().
+  以下四种方法同样可以创建 Date 对象：
+  var d = new Date();
+  var d = new Date(milliseconds);
+  var d = new Date(dateString);
+  var d = new Date(year, month, day, hours, minutes, seconds, milliseconds);
