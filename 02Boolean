@@ -1,0 +1,8 @@
+JavaScript Boolean 对象
+http://www.runoob.com/jsref/jsref-obj-boolean.html
+
+  Boolean 对象
+  Boolean 对象用于转换一个不是 Boolean 类型的值转换为 Boolean 类型值 (true 或者false).
+  
+  Boolean(1)
+  true
