@@ -7,3 +7,8 @@ Date 对象
   var d = new Date(milliseconds);
   var d = new Date(dateString);
   var d = new Date(year, month, day, hours, minutes, seconds, milliseconds);
+
+JavaScript Date对象
+http://www.cnblogs.com/polk6/p/4156595.html
+js data日期初始化的5种方法
+http://www.jb51.net/article/44981.htm
